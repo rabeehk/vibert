@@ -58,3 +58,21 @@ sh sample_commands/wd.sh
 ```
 sh sample_commands/bert_beta_zero.sh
 ```
+
+## Bibliography
+If you find this repo useful, please cite our paper.
+
+```
+@inproceedings{
+mahabadi2021variational,
+title={Variational Information Bottleneck for Effective Low-Resource Fine-Tuning},
+author={Rabeeh Karimi mahabadi and Yonatan Belinkov and James Henderson},
+booktitle={International Conference on Learning Representations},
+year={2021},
+url={https://openreview.net/forum?id=kvhzKz-_DMF}
+}
+```
+
+## Final words
+Hope this repo is useful for your research. For any questions, please create an issue or
+email rabeeh.karimi@idiap.ch or rabeeh.k68@gmail.com, and we will get back to you as soon as possible.
